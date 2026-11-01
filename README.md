@@ -139,10 +139,6 @@ Add your Streamlit dashboard screenshot here:
 * Improve dashboard design and visualizations.
 * Deploy the application online.
 
-## 👨‍💻 Author
-
-**Navneet Kumar Tiwari**
-
 BCA – Data Science & Artificial Intelligence
 
 **Skills:** Python | Machine Learning | Pandas | NumPy | Streamlit | SQL | Power BI
